@@ -2,6 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  font-family: var(--font-loew-medium), sans-serif;
+}
+
+h1 {
+  font-family: var(--font-loew-bold), sans-serif;
+}
 :root {
   --background: #ffffff;
   --foreground: #171717;
