@@ -1,8 +1,7 @@
 import { type RecursiveObject } from "@chakra-ui/react";
 
 export const fonts: RecursiveObject<string> = {
-  heading: "'Martian Mono', monospace",
-  body: "'Martian Mono', monospace",
-
-  mono: "'Martian Mono', monospace",
+  heading: "'Loew', sans-serif", // For heading texts
+  body: "'Loew', sans-serif", // For body texts
+  mono: "'Loew', monospace", // If you want to use Loew as the monospace font
 };
