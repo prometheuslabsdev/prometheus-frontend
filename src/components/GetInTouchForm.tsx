@@ -69,7 +69,7 @@ export function GetInTouchForm() {
               })}
               bg="gray.100"
               color="black" // Text color when typing
-              _placeholder={{ color: "gray.100" }} // Placeholder color
+              _placeholder={{ color: "gray.500" }} // Placeholder color
             />
           </FormControl>
 
