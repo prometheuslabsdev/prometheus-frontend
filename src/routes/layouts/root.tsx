@@ -171,7 +171,7 @@ export function Root() {
           <Heading as="h3" fontSize="xl" fontWeight="400" color="gray.600">
             From concerts and sports, to professional conferences, events are a treasure trove of real world data. 
             <br /> <br />
-            Our cutting edge technoloy helps you unlock that value while engaging your attendees. You focus on the event, we'll take care of the rest.
+            Our cutting edge technology helps you unlock that value while engaging your attendees. You focus on the event, we'll take care of the rest.
           </Heading>
         </VStack>
       </Box>
