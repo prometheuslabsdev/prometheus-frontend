@@ -238,7 +238,7 @@ export function Root() {
           <Heading as="h3" fontSize="l" fontWeight="400" color="gray.600">
             If you're interested, please send your resume to hello@prometheuslabs.dev
           </Heading>
-          <Button
+          {/* <Button
             mt={3}
             colorScheme="blue"
             onClick={() => {
@@ -247,7 +247,7 @@ export function Root() {
             }}
           >
             View Open Positions
-          </Button>
+          </Button> */}
         </VStack>
         {/* Copyright Section */}
       </Box>
