@@ -96,7 +96,7 @@ export function Root() {
       <Box
         position="relative"
         width="100%"
-        bgImage="src/const/boxes-background.svg" // Replace with your SVG URL
+        bgImage="url('/boxes-background.svg')" // Replace with your SVG URL
         bgPosition="center center"
         bgSize="cover"
         bgRepeat="no-repeat"
@@ -159,7 +159,6 @@ export function Root() {
         visibility={isAboutUsVisible ? 'visible' : 'hidden'}
         mt={8} // Negative margin to bring the About Us section closer to the Hero section
         position="relative"
-        bgImage="url('/path/to/your-svg-background.svg')" // Replace with your SVG URL
         bgPosition="center center"
         bgSize="cover"
         bgRepeat="no-repeat"
